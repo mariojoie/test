@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Hello World!</h1>
+<<<<<<< HEAD
+	<h1>spawn and fork</h1>
+=======
+	<h1>spawn spawn!</h1>
+>>>>>>> ab-1l_mauleon
 	<img src="image.jpg"/>
 	<p>Marion Mauleon 2012 08613 AB 1L</p>
 </body>
