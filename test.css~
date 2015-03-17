@@ -1,5 +1,5 @@
 body{
 background-color: grey;
 color: purple;
-font-family: "Tahoma", cursive, sans-serif;
+font-family: "Garamond", cursive, sans-serif;
 }
